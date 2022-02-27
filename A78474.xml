@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine modest observations and considerations of the true Protestants of the Church of England· For their right choyce of church governours, and church ceremonies, together with the church liturgie, according to the word of God. Presented in all humility to the high and Honourable houses of Parliament to bee voted and enacted, and to maintaine against all opposers. With the good meanes to expedite the same. Leaving the authors iudgement to your wisedomes best considerations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78474</idno>
+            <idno type="STC">Wing C1706</idno>
+            <idno type="STC">Thomason E178_7</idno>
+            <idno type="STC">ESTC R1377</idno>
+            <idno type="EEBO-CITATION">99859543</idno>
+            <idno type="PROQUEST">99859543</idno>
+            <idno type="VID">111632</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111632)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E178[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine modest observations and considerations of the true Protestants of the Church of England· For their right choyce of church governours, and church ceremonies, together with the church liturgie, according to the word of God. Presented in all humility to the high and Honourable houses of Parliament to bee voted and enacted, and to maintaine against all opposers. With the good meanes to expedite the same. Leaving the authors iudgement to your wisedomes best considerations.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111632:1"/>
+            <pb facs="tcp:111632:1" rendition="simple:additions"/>
+            <p>CERTAINE MODEST OBSERVATIONS AND CONSIDERATIONS of the true Proteſtants of the Church of ENGLAND. For their right choyce of Church Go<g ref="char:EOLhyphen"/>vernours, and Church Ceremonies, together with the Church Liturgie, according to the word of God.</p>
+            <p>Preſented in all humility to the high and Honourable houſes of PARLIAMENT to bee voted and enacted, and to maintaine againſt all oppoſers.</p>
+            <p>With the good meanes to expedite the ſame.</p>
+            <p>Leaving the Authors Iudgement to your Wiſe<g ref="char:EOLhyphen"/>domes beſt Conſiderations.</p>
+            <p>LONDON, Printed for IOHN THOMAS. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111632:2"/>
+            <pb n="1" facs="tcp:111632:2"/>
+            <head>Certaine modeſt Obſervations and Conſiderations of the true Proteſtants Right, in the juſt choyce of the Church Governours, Church Ceremonies, and Church Liturgy, according to the Word, for the Honourable Houſes of Parliament to vote, enact, and maintaine againſt all oppoſitions: The Authors beſt Iudgement left to their wiſe Conſidera<g ref="char:EOLhyphen"/>tions.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt Noble and Wiſe Senators of this famous and well hoped Parliament, J have ſtood long muſing (upon the excellent Reports of your grave proceedings concerning the Church of <hi>England</hi>) whether to forbeare or to preſent my plain and Rigid lines, knowing that many hath writ and printed to your views divers Books, ſome judi<g ref="char:EOLhyphen"/>ciall, and ſome Phanaticall. And ſeeing the neceſſity of ſome ſo<g ref="char:EOLhyphen"/>lid truth to be performed and judged of ſpeedily without delay for the glory of God and good of this Church and State, for ſet<g ref="char:EOLhyphen"/>led Right and Government to be held in this our Nation, which might not ſavour of Cuſtomes, which oft-times prevailes and proves a Tyrant, and well by ſome ſo called, where it is main<g ref="char:EOLhyphen"/>tained from undue and unjuſt beginnings and proceedings, as in our Lord Biſhops too plainly hath appeared, amongſt whom to have Lord Archbiſhops to be Overſeers of Overſeers is the moſt ſeeming groundleſſe without reaſon and Religion: Groundleſſe, becauſe high Prieſts to the Iewes, Chriſt and the Apoſtles over the Church Miniſtery is no true preſident for them to ground Archbiſhops by, for in the Goſpell it ceaſed, and Chriſt Ieſus
+<pb n="2" facs="tcp:111632:3"/> was the high Prieſt, yea and the onely Archbiſhop of our Soules, by that Government he hath preſcribed unto Biſhops of his Church, his Apoſtles after him, which to plead cuſtome for higher Government, is an abuſe to Chriſt, and if there bee any ſubſtitute to Chriſt to take place of Archbiſhops, it muſt be he whom is the Defender of the Faith of Chriſt, our King and his high Councell to be Arch-Overſeers, for it is too plaine that ſuch will overſee the Errors of their Brother Biſhops, nay more bring them to errours too, I ſhall not need to repeat them, This Parliament hath found examples too many.</p>
+            <p>The Second Conſideration, is to beat backe the feares of the learned and wiſe, that thinke this Change is a Novelty of as great conſequence as the late Innovations of our Church by the Biſhops: Let this ſatisfie if they feare God as I verily thinke ſome that ſpake it doth, and will take ſatisfaction, this change and Novelty is no further then to Renovate the old Truth of Gods revealed word to his people: The other is an addition, and ſo drawes in a curſe to adde or diminaſh, and ſure theſe Ho<g ref="char:EOLhyphen"/>norable Houſes have taken notice of the Proteſtants Teſtimony, and redreſſed their Innovations in ſome part, and there are ma<g ref="char:EOLhyphen"/>ny more growes upon us, if not prevented betimes, ſo many Sectaries labouring with Petitions to theſe Honourable Houſes to ſupport their owne opinions which would turne to a great confuſion, if this High Court of Parliament ſhould not ſpeedily Rectifie as well againſt the Papiſts and their Prieſts which are in<g ref="char:EOLhyphen"/>deed the true accounted <hi>Puritanes,</hi> worthy of that ſcornefull Nick-name in the world, and farre more exceeding the Sect of the <hi>Browniſts</hi> ſo called: But they with others of multitude na<g ref="char:EOLhyphen"/>med to the number of 29. or 30. ſeverall Sexes and Schiſmes (beſides <hi>Atheiſts</hi>) whom I feare are too many amongſt us, which could wiſh every Sectary might have liberty to uſe their owne conſciences and opinions, as if there were no Rule of conſcience: I need not name them, all take upon them no leſſe then the Sword of the Spirit to defend their errors, but it is of the evill Spirit the Prince of darkneſſe, becauſe indeed their ſeverall ground worke to perſwade them is like the Divels Logique, that uſed Scripture to our Saviour Chriſt though falſely: But him he could not deceive, no more J hope ſhall they to us <hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi>
+               <pb n="3" facs="tcp:111632:3"/> whoſe truth is Chriſt, and we proteſting for Chriſt are the more truly to be accounted Chriſtians of Chriſt if we ſtand to make choice, and to enact and maintaine the true ſincerity of <hi>Proteſtants</hi> Religion in Preaching, Prayers, and Ceremonies.</p>
+            <p>The third Conſideration, I have partly knowne and conſidered your Honorable actions and good Reſolutions croſſed and hin<g ref="char:EOLhyphen"/>dered by ſtrong hand both for the good intended to the Church and Common-wealth, by their evill intentions to intercept you if they can: And it is from that potent power of malice the Prince of darkneſſe aforeſaid, that ſowes his tares among your Wheat, that endeavours to croſſe all good intentions by preven<g ref="char:EOLhyphen"/>tions of which J need not tell you his further manner of power, in ſo great a troubled Government both in Church and Common<g ref="char:EOLhyphen"/>wealth, as the like hath not bin ſeene or heard of in this ſtate, theſe hundred of yeares; and therefore, you muſt firſt ſeeke to vanquiſh him and all your foes, and factious heads muſt be made higher by a pole then their bodies, for how can the Sheepfold be quiet, while yet amongſt them there be ſome Woolves, you have a great worke and a great many to rule and wraſtle with, ſo fight that you may conquer too, and cut off thoſe that rayſe tumults and errors, for if they get a head the Kingdome is divi<g ref="char:EOLhyphen"/>ded, Separations are the wound of a Crowne whereby neglected it will bleed to death (J feare by it ſome quarrels and diviſions) at laſt: You have begun well, why ſtick yee upon <hi>Ariſtippus</hi> or <hi>Diotrephes,</hi> who loveth to have the preheminence, and worketh Kings unto it, I feare to make more ſuch, as then will prove as bad to him and us, as the Vine-plants did of good <hi>Noah's</hi> owne planting, if the <hi>Proteſtants</hi> Councell, which is your ſelves doe not order the planting of it: An example appeares in the Arch<g ref="char:EOLhyphen"/>biſhops, &amp;c. The laſt Deputy of <hi>Ireland,</hi> &amp;c. that is fled away, and ſome no doubt at home that hopes of a Kings power to quit them, de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers of the King and others.</p>
+            <p>The 4. Conſideration, For which cauſes as your greateſt dan<g ref="char:EOLhyphen"/>ger amongſt all Hereſies and Schiſmes amongſt us, this greatly marvailed that they the <hi>Papiſts</hi> are not chiefly parted from <hi>Brit<g ref="char:EOLhyphen"/>taines</hi> Court, and elſe-where in this Kingdome, not yet fully Baniſhed nor diſarmed, for it is my poore opinion, which <hi>I</hi> con<g ref="char:EOLhyphen"/>ceive under favour nor groundleſſe to eſtabliſh Chriſt in his Throne, and his truth to be advanced in the <hi>Proteſtant</hi> Religion,
+<pb n="4" facs="tcp:111632:4"/> Religion, is firſt the chiefe evill to avoid them that are open e<g ref="char:EOLhyphen"/>nemies to Proteſtants, and yet under the name of Chriſtians too, and Ieſuites of Jeſus, that ſo counterfeit the name and practice contrary to Jeſus and Chriſt, whom onely taking and making a<g ref="char:EOLhyphen"/>way them with a more ſtricter addition to all their favorites, more then our Lawes, have yet truly executed, you would then ſeeke and ſettle the good of this Proteſtant Church, the bright<g ref="char:EOLhyphen"/>neſſe of the Renovation and ſetling of the true Govrenors and Government of the Church by your Renovation ſetled of the true Governors and Government, by which meanes all Sects, Schiſmes, and opinions, with their Abettors will vaniſh of them<g ref="char:EOLhyphen"/>ſelves away by the Sun-ſhine light of the Proteſtants Church and truth, or be brought home from their ſepetated opinions, ſome of which profeſſe one truth with us in Doctrine though not in their departure and ſeperation: For now as it ſtandeth un<g ref="char:EOLhyphen"/>decided and not done, to ſettle the right way by your honoured Acts, <hi>Atheiſts</hi> hold themſelves good Chriſtians, thinking the beſt way to be Newters, and all Sectaries lives in hope, ſo as the Land is polluted with their infecting and ſeducing ſimple people: And therefore after removing the Adverſaries, the Pa<g ref="char:EOLhyphen"/>piſts, it is the chiefe care as at firſt, your Honourable purpoſes in all your excellent cauſed Orations and Speeches there, to have begun and ſetled the houſe of God; which by dumbe Dogs, wick<g ref="char:EOLhyphen"/>ed Miniſters, &amp;c. to aboliſh cleane, in which it is well knowne, you have laboured in greatly, if it were effected without oppo<g ref="char:EOLhyphen"/>ſition.</p>
+            <p>
+               <hi>The</hi> 5. <hi>Conſideration.</hi> Jf there be any oppoſition againſt the good meaning, you voting of this your good purpoſes, Jt is in them that are either Malevolent to the State of Proteſtancy, and ſuch are not fit to be allowed vote at all, or ſuch that are igno<g ref="char:EOLhyphen"/>rant wiſe, and have not peruſed the unlawfulneſſe of ill cuſtome by Antiquity from right wayes, and them rather to be diſpu<g ref="char:EOLhyphen"/>ted withall by forcible arguments, but J ſhould humbly referre them onely to one Booke among others concerning the danger of Limitted Prelacy, not well anſwerable; and yet anſwered by ſome ſlightly in the Prelates behalfe under the colour and title of a modeſt Advertiſement, and in a calme examination ſo called, as if the firſt did ariſe from ſome ſtorme, which J perceive not
+<pb n="5" facs="tcp:111632:4"/> at all, but as a good gale of wind to ſale by, and the Anſwere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeemes to becalme the voyage of Grace, and would cauſe it to lye at his Anchor to hinder the true wayes proceeding, already honourably and Religiouſly intended to arrive at the Port of <hi>Truth.</hi> As this Parliament hath partly voted already: So as if his title of calmneſſe may ſignifie weakneſſe, his whoſe anſwer layes it open upon him, for ſure it is better to have a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e-growing ſtorme to increaſe the ground-work to goodneſſe, then to have a dry Calme to hinder it; for under his Calme ſeemes but a Ca<g ref="char:EOLhyphen"/>vill, as from his Reaſons may be well ſeene. Jt were too large here for to diſcuſſe them all to ſo wiſe a Senate, ſhewing in him meerely a naturall politique braine to find out faire Reaſons in a foule underſtanding. As for inſtance in our accuſtomed Diſci<g ref="char:EOLhyphen"/>pline to defend the Anſweres by way of <hi>Cueres.</hi>
+            </p>
+            <p n="1">1. Whether it is ſo bad as men living under it are not capable of Salvation, a ſtout Argument, when as they may be capable without it, and that Salvation may be under the Government of <hi>Turkes</hi> and <hi>Papiſts,</hi> although not by it, and ſo in other places: And why ſhou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Epiſcopall Martyrs be allowed a ground to make good that which is bad of it ſelfe in their Diſcipline of truth pretended no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> erroneous, and yet no doubt thoſe Martyrs may be ſaved too, for ſtanding to the true Faith againſt Hereſie.</p>
+            <p n="2">2. By way of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uaere</hi> ſaith, if any deſire a better Diſcipline in<g ref="char:EOLhyphen"/>ſtead, are they all agreed what they ſhall be from Scripture, or by evidence of neceſſary conſequence of Logicall differences: Wherein if Divines muſt chop Logick for maintenance of truth directed by the Scriptures already, as if that were not plain with<g ref="char:EOLhyphen"/>out Logick Rules: We ſhall make the Scripture like a noſe of Wax, as Logicke can doe, and Papiſts uphold.</p>
+            <p n="3">3. And his third and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt Reaſon by <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uare.</hi> Whether the new Diſcipline be a plaine Commandement or forbidden in the old, I admit of neither of both: It is ſufficient Anſwer, That the ex<g ref="char:EOLhyphen"/>amples of a true Diſcipline deſired is appointed by the Apoſtles directions in the Church in their times, where the truth and true Church was knowne, it is ſale for us to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and follow as neere as we can, as a precept and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ule to us, becauſe they were eſpecially directed by the Spirit of God, and ſo by inference a certain Rule and Example for the Proteſtant Church ſo neere to
+<pb n="6" facs="tcp:111632:5"/> follow, and on the contrary ſide the old Diſcipline being con<g ref="char:EOLhyphen"/>trary to the Apoſtles and Churches practice therein in their time is a forbidding in way of Truth, though otherwiſe ſeeming to the Prelates never ſo good, and I partly know yee have given order concerning the Examination of the Litturgy, Apocrip<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and ſinging Pſalmes, to amend by Learned and wiſe Divines, as to your great commendation it may with other things be ſpo<g ref="char:EOLhyphen"/>ken: But the ſaid three Reaſons ſo calmely put with the reſt of the Booke we may calmely reject, is but indeed a Calme C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vill not fit in common reaſon, much leſſe for ſo wiſe and honou<g ref="char:EOLhyphen"/>rable a Senate, ſince it is to no purpoſe but to uphold the Prelates, and their Diſcipline and Government, which made their voy<g ref="char:EOLhyphen"/>age from old ill cuſtomes and examples, from bad Preſidents and places corrupt, and brought it into <hi>England</hi> in the Nonage of our Church.</p>
+            <p n="1">1 And if it be a Puritanicall pack as the Archbiſhop and other Biſhops doe conceive it, to maintaine the unlawfulneſſe of Plu<g ref="char:EOLhyphen"/>ralities and non-reſidency.</p>
+            <p n="2">2 By Vnpreaching Prelates and Miniſters.</p>
+            <p n="3">3 Sole Ordination, and Election, Excommunication, &amp;c.</p>
+            <p n="4">4 To abate the Clergies pompe, Ambition, Lordlineſſe, and Riches.</p>
+            <p n="5">5 The miſ-imploying the Temporalities of the Church.</p>
+            <p n="6">6 To reſtraine the Clergie from medling with temporall Offi<g ref="char:EOLhyphen"/>ces and affaires.</p>
+            <p n="7">7 To abhorre the ill uſe of the Oath <hi>Ex Officio.</hi>
+            </p>
+            <p n="8">8 The Reformation of the Litargie, all offenſive, which by di<g ref="char:EOLhyphen"/>vers men have been complained of by Bookes in print, and by way of Petition for remedy and moſt eſpecially in a noble de<g ref="char:EOLhyphen"/>fence of Church Prayers, Objected by Seperatiſts: Which the <hi>Scots</hi> vſed not, nor reformed Churches, a moſt Learned Lord of the Vpper houſe of Peeres, had ſolidly and wiſely opened the truth for ſome ſeperation for ill uſe of the ſame, as diſagreeing to the worke of Gods holy Spirit, which ſetling our Church in the foreſaid grievances it will open the way as I ſaid to bring the Seperatiſts and others in obedience with us.</p>
+            <p>And if for theſe matters of Reformation aforeſaid, men dare thinke or count you Puritanes, let not theſe Honourable Houſes
+<pb n="7" facs="tcp:111632:5"/> and Grave Senators therein thinke it no harme ſo to be ſo ac<g ref="char:EOLhyphen"/>compted by looſe libertines, for your wiſe endeavours to vote and enact theſe things to be done, for thereby you ſhall be pu<g ref="char:EOLhyphen"/>rer then they, and find that beatitude: Bleſſed are the pure in heart, for theſe your Votes &amp; Acts muſt be done from your heart, and then it brings you to ſee God by the pureſt of all men Chriſt Jeſus, yea you ſhall ſee Chriſt cleerely in his Throne of Majeſty, which they and other Sectaries have endeavoured to put out, yea alſo you ſhall ſee Chriſt by ſuch Acts and Votes performed therein, as in his word moſt lively.</p>
+            <p>And laſtly by the true Concord and agreement of both Honou<g ref="char:EOLhyphen"/>rable Houſes effecting this worke, you ſhall ſee Heaven opened to you hereafter for your ſoules comfort and honour on Eter<g ref="char:EOLhyphen"/>nity.</p>
+            <p>The 6. and laſt Conſideration concluding all is, I herefore hum<g ref="char:EOLhyphen"/>bly to move the Houſe of Peeres and Commons to ſtick cloſe to Chriſt as by confeſſing and profeſſing him (ſo by redreſſing) be<g ref="char:EOLhyphen"/>fore men, Chriſt will then profeſſe you his friends before his Father in Heaven (there is your reward above) get it by Pe<g ref="char:EOLhyphen"/>tition of right too from the King, as you have done for the Com<g ref="char:EOLhyphen"/>mon Law, &amp; this will be an extraordinary common good to the <hi>Proteſtants</hi> faith, hope, and love, as all your Chriſtian minds J doubt not are ſetled therein to ſtrengthen your ſelves noble Se<g ref="char:EOLhyphen"/>nators againſt all oppoſitions, that you may ſtand faſt in the Li<g ref="char:EOLhyphen"/>berties wherewith Chriſt hath made you free too, if you ſhould doubt the Royalty of his Majeſties will by him expreſſed to this Parliament, and ſince from <hi>Scotland</hi> as is ſuppoſed that he will keepe the Government of Queen <hi>Elizabeth</hi> and his Royall Fa<g ref="char:EOLhyphen"/>ther good patternes for thoſe times, that then was uſed for want of better helpes, they were like the good King <hi>Davids</hi> that Religiouſly meant well, but <hi>Salomon</hi> his Sonne muſt build the Temple, and he is a good Prince that will be like his good Pro<g ref="char:EOLhyphen"/>genitors, but he is a better Prince that will amend and be a more clearer way, when it makes more for the glory of God, the ho<g ref="char:EOLhyphen"/>nour and comfort of the King and to his people peace and god<g ref="char:EOLhyphen"/>lineſſe, ſo ſhall our King be like <hi>Salomon,</hi> not onely to imitate the worth of Queene <hi>Elizabeth</hi> and King <hi>James</hi> in their Reli<g ref="char:EOLhyphen"/>gions, but farre more edifie and build the Temple of <hi>Ieruſalem,</hi>
+               <pb n="8" facs="tcp:111632:6"/> a new, much decayed in <hi>England,</hi> and every true <hi>Proteſtant</hi> is committed the Temple of the Holy Ghoſt, for aſſuredly as <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> were many in Queene <hi>Elizabeth</hi> and King <hi>Iames</hi> times, ſo by this Reformation there will be many more and better in our King <hi>Salomons</hi> time, J meane King <hi>Charles.</hi>
+            </p>
+            <p>Some thinke his Majeſty being in <hi>Scotland</hi> would not write ſuch a Letter there concerning his will about Church-Govern<g ref="char:EOLhyphen"/>ment and Diſcipline of <hi>England,</hi> becauſe what is allowed good there, is from the ſame truth good here, and to have the like were but a true Piety and Vn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty for the Church to the peace of both King and Kingdomes, but then ſince to turne this Letter in<g ref="char:EOLhyphen"/>to a booke tituled King <hi>Charles</hi> his Speech in <hi>Scotland</hi> concer<g ref="char:EOLhyphen"/>ning the ſame by no authority knowne for that there is uſed ir<g ref="char:EOLhyphen"/>refragrant tearmes, as if the King ſhould conceive if Lord Biſhops were put downe, as the <hi>Proteſtants</hi> ſeeme to deſire it, that then the Tryeniall <hi>Parliament</hi> next may thruſt out the Lords alſo, which is a bitter diſpoſition to breed d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcord betweene the two houſes, at leaſt a terror to their new proceedings, for it is well knowne our <hi>Parliaments</hi> cannot ſtand good without the Peeres, though without Lord Biſhops they may.</p>
+            <p>And as J ſhewed before, Queen <hi>Elizabeth</hi> and King <hi>Iames</hi> did not alter thoſe things they then might and which now we may, for Q. <hi>Elizabeth</hi> came to the Crowne a Virgin Queene perſe<g ref="char:EOLhyphen"/>cuted before, and in time of perſecution they found Biſhops more zealous and willing helps to eſtabliſh her Raign in Church-Government; as for truth ſhe beſt could have againſt Popery, and were very frequent in preaching both in Court, City, and Coun<g ref="char:EOLhyphen"/>trey in theſe times, and a true Lover of their <hi>Proteſtant</hi> Brethren the Miniſters, and King <hi>Iames</hi> following after her to the Crown in that ſetled Goverment and Governors wherein for her time ſhe was famous over the world, &amp; finding the people of <hi>England</hi> more gentle and paſſive then the <hi>Scots</hi> who were more active and practive to worke their owne ends in evill before, as they were counted <hi>Rebels</hi> of the North, and thereby a <hi>Scot</hi> was an o<g ref="char:EOLhyphen"/>dious name in <hi>England</hi> as King <hi>Iames</hi> knew, as alſo ſometimes too buſie upon Kings conſciences, who yet after his Raigne here in <hi>England,</hi> procured them to entertaine ſome Lord Biſhops in <hi>Scotland</hi> he was a King of exceeding great wiſdome and know<g ref="char:EOLhyphen"/>ledge
+<pb n="9" facs="tcp:111632:6"/> to diſpute and diſcerne (as ever at his Table here in <hi>England</hi> Biſhops attending him) he was ſchooling them in Arguments and Conferences did thereby keepe them in awe of truth, and fa<g ref="char:EOLhyphen"/>voured no lying or flattery, but ſhewed himſelfe like good King <hi>David</hi> in the 101 <hi>Pſal.</hi> To rule both his houſe and them in ſin<g ref="char:EOLhyphen"/>cerity, and ſo refuſed for Reaſons aforeſaid to make any altera<g ref="char:EOLhyphen"/>tions in his time according to the <hi>Scots</hi> Government.</p>
+            <p>Now could King <hi>Charles</hi> doe as he did ſince his Marriage with our gracious Queen, and did the Biſhops no worſe ſince, by too much inclining to <hi>Arminianiſme</hi> and <hi>Popery,</hi> and leaning too much on their ſide as appeares divers wayes, but eſpecially by the Innovations of Government, which was not in Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> or King <hi>James</hi> time (who withſtood them both) J ſhould conceive a Reformation of evils in our now Lord Biſhops might be rather then a deformation of them qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te in this ſtate, which is not poſſible to be ſo long as <hi>Popery</hi> hath ſuch a power &amp; hand (in <hi>England</hi> unexecuted Lord Biſhops firſt ariſing from them, and having never had any warrant from Gods word, is now more ſafer to Reforme then to keepe up and ſo to looke forward, them backward to amend that which is amiſſe both for Gods glory and the Kingdomes good, and ſo let the <hi>Proteſtants</hi> by this their Honourable Councell of <hi>Parliament</hi> have the true choyce both of Governors and government, and ſettle the Lyturgie according to ſincere truth and examples. So ſhall our King be accounted as glorious as wiſe <hi>Salomon</hi> for renewing and rebuilding of the de<g ref="char:EOLhyphen"/>cayed Temples of the holy Ghoſt, as he doth of St. <hi>Pauls</hi> Church a materiall Temple and ſo both renewes together.</p>
+            <p>Therefore it ſhall be no doubt by your grave Senators Wiſe<g ref="char:EOLhyphen"/>domes ſtill to perſwade our King, that ye muſt booke forward not backward in Regall government, and you are both for the King and his Subjects in the ploughing ſeaſon, and it may ſeeme a hard worke and taſke to goe forward to Chriſt without loo<g ref="char:EOLhyphen"/>king backe, yet Kings as other men muſt ſet their wills, apt and imitate that Doctrine and Diſcipline which is neareſt to our Fa<g ref="char:EOLhyphen"/>ther and Saviour in Heaven; Worldly policy muſt bend to this plough leaſt looking backe we be turned like <hi>Lots</hi> wife into a pillar of unſavory Salt.</p>
+            <p>Thus much for your incouragement to hope well in our King
+<pb n="10" facs="tcp:111632:7"/> when you have done your beſt to plough rightly, that at laſt you may ſay with St. <hi>Paul,</hi> We have fought a great fight, and ſought to finiſh the <hi>Parliaments</hi> true courſe, and for to keepe the <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> moſt Chriſtian faith for which the Crowne of <hi>England</hi> for building up theſe broken walles of <hi>Ieruſalem,</hi> and the glori<g ref="char:EOLhyphen"/>ous Crowne of Heaven ſhall honour you highly: Therefore no<g ref="char:EOLhyphen"/>ble Senators ſlack no time nor ſuffer oppoſition of your wiſe<g ref="char:EOLhyphen"/>domes votes, unto ſpeedy Acts by all good meanes for ſetling of the peace of our <hi>Ieruſalem,</hi> the King and his people, and ſtop the mouthes of thoſe which ſay; That <hi>Engliſh</hi> men are more paſſive then active, all then will have cauſe to pray and praiſe you, and God in you, and other Nations and Chriſtian Reformed Chur<g ref="char:EOLhyphen"/>ches that liſtens after your proceedings extoll you duely, and then it will follow in the next degree of your Temporall Refor<g ref="char:EOLhyphen"/>mation by ploughing up of the Bryers and Thornes, when Gods Temples hath found his bleſſing, their hearts and hands will fol<g ref="char:EOLhyphen"/>low you for the good of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommon-wealth, Let <hi>England</hi> pray therefore for true Concord between theſe two famous houſes of <hi>Parliament,</hi> that without ſeperation &amp; diviſion you may be like <hi>Jonathan</hi> and <hi>David,</hi> and then it is not to bee feared that your wiſdomes and gracious heart of our King <hi>Charles</hi> as the head of <hi>Englands Proteſtants</hi> body, will be ready to fulfill all your juſt votes &amp; deſires, as the ſame body hath yeelded for the King their head, ſuch Nutrimentall ſupplyes not of <hi>Engliſh</hi> Milke and ho<g ref="char:EOLhyphen"/>ney, compared like the Land of <hi>Canaan</hi> which flew above his o<g ref="char:EOLhyphen"/>ther Nation for his comfort and pleaſure, but with ſuch gold and ſilver money weakning themſelves for his honours credit to all Nations from free hearts and loving Subjects, and ſo J cannot better <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd theſe Conſiderations, then to deſire God to pre<g ref="char:EOLhyphen"/>ſerve you all, and in all your proceedings, from your enemies, and that this Kingdome may be kept from Civill diſſentions by your bleſſed labours and Councells.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111632:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
